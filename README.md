@@ -10,6 +10,9 @@ This cloud project focuses on hosting an E-learning website on the Azure cloud p
 ![image](https://github.com/pawarsuraj805/Project_Cloud2/assets/53330198/64a09538-5ee7-4a99-9993-2a883b2abdb4)
 ![image](https://github.com/pawarsuraj805/Project_Cloud2/assets/53330198/642e1570-5ec8-4569-8803-52bb668b1c3a)
 ![image](https://github.com/pawarsuraj805/Project_Cloud2/assets/53330198/531971ac-672c-485d-89f5-f6cf22365054)
+![image](https://github.com/pawarsuraj805/Project_Cloud2/assets/53330198/0e1ed276-41c7-4c05-ad0c-79536ae55d24)
+![image](https://github.com/pawarsuraj805/Project_Cloud2/assets/53330198/9bc57713-103f-4ecd-90e6-7a0a41d02833)
+
 
 
 
