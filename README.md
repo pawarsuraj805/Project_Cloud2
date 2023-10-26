@@ -35,6 +35,7 @@ By combining these Azure services and virtual machines, you create a robust and 
 ![image](https://github.com/pawarsuraj805/Project_Cloud2/assets/53330198/5444fe9b-f5dd-4c2a-8d72-23485867da3e)
 ![image](https://github.com/pawarsuraj805/Project_Cloud2/assets/53330198/b33766bb-4af6-4725-b7a3-69d7a2811275)
 ![image](https://github.com/pawarsuraj805/Project_Cloud2/assets/53330198/df9ee85c-8c27-4a0c-8b1d-b0e525e4e66a)
+![image](https://github.com/pawarsuraj805/Project_Cloud2/assets/53330198/dc0fe9a9-4df9-4458-a533-6c5275482c81)
 
 
 
