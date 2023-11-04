@@ -4,9 +4,7 @@ This cloud project focuses on hosting an E-learning website on the Azure cloud p
 1.Recovery vault
 2.Load balancer
 3.Traffic manager
-## To visit the website [Click here](http://elearning12.trafficmanager.net)
-## "elearning.centralindia.cloudapp.azure.com" if above method fails,copy this link and paste on new tab
-
+## To visit the website [Click here](http://e-learning.trafficmanager.net)
 ## To visit project demo video [Click here](https://drive.google.com/file/d/1yJeQkwHT97iHnGCHON3uzoT1CJSOUX5J/view)
 ### Topology
 To provide a better understanding of the project's infrastructure, here's a simplified network topology for your E-learning website deployed on Azure with Azure Recovery Vault, Traffic Manager, and Load Balancer:
